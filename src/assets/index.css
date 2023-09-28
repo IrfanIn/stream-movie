@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  /* font-family: "Generis Simple W04 Heavy"; */
+  font-family: "Inclusive Sans";
+}
+
+body {
+  background-color: #22262f;
+}
+
+@layer utilities {
+  .content {
+    @apply max-w-[85vw] m-auto max-h-screen;
+  }
+
+  .dot-notif {
+    @apply after:content-[''] after:p-1 after:rounded-full after:absolute after:bg-red-600;
+  }
+
+  .generis {
+    font-family: "Generis Simple W04 Heavy";
+  }
+}
+
+@layer components {
+  .stream-button {
+    @apply py-4 px-6 block cursor-pointer capitalize;
+  }
+
+  .subtitle {
+    @apply text-6xl/tight text-white font-bold font-generis capitalize;
+  }
+
+  .after-background {
+    @apply after:content-[''] after:bg-gray-800/75 after:absolute after:inset-0;
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "movie_type": [
+    {
+      "icon": "gun",
+      "title": "action",
+      "amount": "1300"
+    },
+    {
+      "icon": "wand-magic-sparkles",
+      "title": "fantasy",
+      "amount": "800"
+    },
+    {
+      "icon": "masks-theater",
+      "title": "comedy",
+      "amount": "1000"
+    },
+    {
+      "icon": "user-group",
+      "title": "drama",
+      "amount": "1500"
+    },
+    {
+      "icon": "user-secret",
+      "title": "mystery",
+      "amount": "500"
+    },
+    {
+      "icon": "heart",
+      "title": "romance",
+      "amount": "900"
+    },
+    {
+      "icon": "ghost",
+      "title": "horor",
+      "amount": "750"
+    },
+    {
+      "icon": "bolt",
+      "title": "thriller",
+      "amount": "500"
+    }
+  ],
+  "movie_image_endpoint": "https://image.tmdb.org/t/p/w220_and_h330_face",
+  "movie_endpoint": "https://api.themoviedb.org/3",
+  "movie_access_token": "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlY2M0NTg5ZGQ0OWQ5NDAzZGQxMWU3YmRlZDUwZTEwOCIsInN1YiI6IjY1MTA1MjZjNmY1M2UxMGFhNWQzNDc4YyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.zujdoAOCFKfddDwwCYfAmq_RjtX6Wu1_b7vb67yJ60I"
+}

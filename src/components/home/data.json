@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Free",
+    "subtitle": "Basic movie Stream functionality",
+    "price": 0,
+    "desc": "Free forever",
+    "button": "Current plan",
+    "benefit": [
+      "30 days history",
+      "Up to 10 Friends",
+      "1 parties stream each day"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Pro",
+    "subtitle": "Advanced Stream functionality",
+    "price": 29999,
+    "desc": "Per month, access 3 devices",
+    "button": "Upgrade",
+    "benefit": [
+      "Continue stream",
+      "Access unlimited movies",
+      "5 Parties stream each day"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Streelover",
+    "icon": "fas fa-child-reaching",
+    "subtitle": " For Stream lovers",
+    "price": 159999,
+    "desc": "per month, access unlimited devices",
+    "button": "Upgrade",
+    "benefit": [
+      "Pro features, unli parties",
+      "Unlimited friend",
+      "Primary services"
+    ]
+  }
+]
